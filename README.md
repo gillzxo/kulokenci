@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kulo Kenci
 
-<h3 align="center">A passionate full-stack developer</h3>
-<p align="center">~html5, ~javascript, ~angular<br>~java, ~php, ~python, ~nodejs</p>
+<h3 align="center">full-stack developer a guy from Indonesia</h3>
+<p align="center">⚙️html5, ⚙️javascript, ⚙️angular<br>⚙️java, ⚙️php, ⚙️python, ⚙️nodejs<br>⚙️mysql, ⚙️mongodb</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
